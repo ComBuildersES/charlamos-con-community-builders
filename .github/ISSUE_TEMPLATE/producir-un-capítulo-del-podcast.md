@@ -27,7 +27,7 @@ assignees: ''
 <DESCRIPCIÓN>
 
 Recursos: (si aplica)
-- <enlazar recursos comentados en la charla>
+- \<enlazar recursos comentados en la charla\>
 - ...
 
 ℹ️ Sobre este Podcast y Community Builders
@@ -52,7 +52,7 @@ Te dejamos un par de enlaces para conocer más sobre:
 
 👥 SOBRE LAS COMUNIDADES QUE DINAMIZA
 ============
-- <NOMBRE>: <WEB>
+- \<NOMBRE\>: \<WEB\>
 - ...
 
 ❤️ COMMUNITY BUILDERS EN REDES
