@@ -32,9 +32,9 @@ Recursos: (si aplica)
 
 ℹ️ Sobre este Podcast y Community Builders
 ============
-Te dejamos un par de enlaces para conocer más sobre
-- Esta iniciativa: https://github.com/ComBuildersES/charlamos-con-community-builders#readme
-- Nuestra comunidad: https://github.com/ComBuildersES
+Te dejamos un par de enlaces para conocer más sobre:
+- 🎙️ Esta iniciativa: https://github.com/ComBuildersES/charlamos-con-community-builders#readme
+- ❤️ Nuestra comunidad: https://github.com/ComBuildersES
 
 🪪 CONECTA CON <INVITAD@>:
 ============
