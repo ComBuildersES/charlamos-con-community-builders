@@ -27,44 +27,47 @@ assignees: ''
 <DESCRIPCIÓN>
 
 Recursos: (si aplica)
-* <enlazar recursos comentados en la charla>
+- <enlazar recursos comentados en la charla>
+- ...
 
-ℹ️ Sobre Community Builders
+ℹ️ Sobre este Podcast y Community Builders
 ============
-Si quieres saber más sobre nuestra comunidad visita: https://github.com/ComBuildersES
+Te dejamos un par de enlaces para conocer más sobre
+- Esta iniciativa: https://github.com/ComBuildersES/charlamos-con-community-builders#readme
+- Nuestra comunidad: https://github.com/ComBuildersES
 
 🪪 CONECTA CON <INVITAD@>:
 ============
-* LinkedIn: ...
-* X: ...
-* Bluesky: ...
+- LinkedIn: ...
+- X: ...
+- Bluesky: ...
 
 🪪 CONECTA CON RAÚL: <- )o persona que entreviste)
 ============
-* LinkedIn: https://www.linkedin.com/in/jimenezortegaraul/
-* Bluesky: https://bsky.app/profile/hhkaos.bsky.social
-* X: https://x.com/hhkaos
-* YouTube: https://youtube.com/hhkaos
-* Su web: https://rauljimenez.info/
+- LinkedIn: https://www.linkedin.com/in/jimenezortegaraul/
+- Bluesky: https://bsky.app/profile/hhkaos.bsky.social
+- X: https://x.com/hhkaos
+- YouTube: https://youtube.com/hhkaos
+- Su web: https://rauljimenez.info/
 
 👥 SOBRE LAS COMUNIDADES QUE DINAMIZA
 ============
-* <NOMBRE>: <WEB>
-* ...
+- <NOMBRE>: <WEB>
+- ...
 
-❤️ SOBRE COMMUNITY BUILDERS
-* Bluesky: https://bsky.app/profile/communitybuilders.bsky.social
-* LinkedIn: https://www.linkedin.com/company/combuilders-es/
-* X: https://x.com/ComBuilders_ES
-* Web: https://combuilderses.github.io/
+❤️ COMMUNITY BUILDERS EN REDES
+============
+- Bluesky: https://bsky.app/profile/communitybuilders.bsky.social
+- LinkedIn: https://www.linkedin.com/company/combuilders-es/
+- X: https://x.com/ComBuilders_ES
 
-🎙️MÁS EPISODIOS
+🎙️ MÁS EPISODIOS
 ============
 Encuentra más conversaciones en este podcast:
-* YouTube:
-* Spotify: https://open.spotify.com/show/39Y4g82vPBPP0lsStqJiby?si=q5hSZK0sTkude1orlQTLiw&nd=1&dlsi=cede339d188c481b
-* Ivoox: https://www.ivoox.com/podcast-charlamos-community-builders_sq_f12524565_1.html
-* Otros: https://linktr.ee/ComBuilders_ES
+- YouTube: https://www.youtube.com/playlist?list=PLmBMB-ENmVN239WvtkEE2rXOGnz4HOuGs
+- Spotify: https://open.spotify.com/show/39Y4g82vPBPP0lsStqJiby?si=q5hSZK0sTkude1orlQTLiw&nd=1&dlsi=cede339d188c481b
+- Ivoox: https://www.ivoox.com/podcast-charlamos-community-builders_sq_f12524565_1.html
+- Otros canales: https://linktr.ee/ComBuilders_ES
 
 🕣 ÍNDICE
 ============
