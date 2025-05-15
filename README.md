@@ -57,6 +57,9 @@ Si quieres colaborar por favor leer -> [CONTRIBUTING.md](CONTRIBUTING.md])
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/astrojuanlu"><img src="https://avatars.githubusercontent.com/u/316517?v=4?s=100" width="100px;" alt="Juan Luis Cano Rodríguez"/><br /><sub><b>Juan Luis Cano Rodríguez</b></sub></a><br /><a href="#video-astrojuanlu" title="Videos">📹</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://lucascervera.com"><img src="https://avatars.githubusercontent.com/u/2197153?v=4?s=100" width="100px;" alt="Lucas Cervera"/><br /><sub><b>Lucas Cervera</b></sub></a><br /><a href="#video-lucascervera" title="Videos">📹</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.draxus.org/"><img src="https://avatars.githubusercontent.com/u/2436?v=4?s=100" width="100px;" alt="Manuel Martín"/><br /><sub><b>Manuel Martín</b></sub></a><br /><a href="#video-DraXus" title="Videos">📹</a></td>
+    </tr>
   </tbody>
 </table>
 
