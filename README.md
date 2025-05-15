@@ -44,6 +44,7 @@ Si quieres colaborar por favor leer -> [CONTRIBUTING.md](CONTRIBUTING.md])
       <td align="center" valign="top" width="14.28%"><a href="https://www.mytechplan.com/"><img src="https://avatars.githubusercontent.com/u/98886279?v=4?s=100" width="100px;" alt="Julieta Zalduendo"/><br /><sub><b>Julieta Zalduendo</b></sub></a><br /><a href="#video-julietazalduendo" title="Videos">📹</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://javiervelezreyes.com"><img src="https://avatars.githubusercontent.com/u/6446073?v=4?s=100" width="100px;" alt="Javier Vélez Reyes"/><br /><sub><b>Javier Vélez Reyes</b></sub></a><br /><a href="#video-javiervelezreyes" title="Videos">📹</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/oskarcalvo"><img src="https://avatars.githubusercontent.com/u/85880?v=4?s=100" width="100px;" alt="Oskar Calvo"/><br /><sub><b>Oskar Calvo</b></sub></a><br /><a href="#video-oskarcalvo" title="Videos">📹</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://linktr.ee/neovasili"><img src="https://avatars.githubusercontent.com/u/6529592?v=4?s=100" width="100px;" alt="Juan Manuel Ruiz Fernández"/><br /><sub><b>Juan Manuel Ruiz Fernández</b></sub></a><br /><a href="#video-neovasili" title="Videos">📹</a></td>
     </tr>
   </tbody>
 </table>
