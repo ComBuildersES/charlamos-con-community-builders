@@ -46,6 +46,7 @@ Si quieres colaborar por favor leer -> [CONTRIBUTING.md](CONTRIBUTING.md])
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/oskarcalvo"><img src="https://avatars.githubusercontent.com/u/85880?v=4?s=100" width="100px;" alt="Oskar Calvo"/><br /><sub><b>Oskar Calvo</b></sub></a><br /><a href="#video-oskarcalvo" title="Videos">📹</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://linktr.ee/neovasili"><img src="https://avatars.githubusercontent.com/u/6529592?v=4?s=100" width="100px;" alt="Juan Manuel Ruiz Fernández"/><br /><sub><b>Juan Manuel Ruiz Fernández</b></sub></a><br /><a href="#video-neovasili" title="Videos">📹</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://anabuigues.com"><img src="https://avatars.githubusercontent.com/u/592441?v=4?s=100" width="100px;" alt="Ana Buigues"/><br /><sub><b>Ana Buigues</b></sub></a><br /><a href="#video-anabuigues" title="Videos">📹</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://yisus82.github.io/"><img src="https://avatars.githubusercontent.com/u/7774855?v=4?s=100" width="100px;" alt="Jesús Ángel Pérez-Roca Fernández"/><br /><sub><b>Jesús Ángel Pérez-Roca Fernández</b></sub></a><br /><a href="#video-yisus82" title="Videos">📹</a> <a href="#promotion-yisus82" title="Promotion">📣</a></td>
     </tr>
   </tbody>
 </table>
