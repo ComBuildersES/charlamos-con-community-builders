@@ -55,6 +55,7 @@ Si quieres colaborar por favor leer -> [CONTRIBUTING.md](CONTRIBUTING.md])
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ilopmar"><img src="https://avatars.githubusercontent.com/u/559192?v=4?s=100" width="100px;" alt="Iván López"/><br /><sub><b>Iván López</b></sub></a><br /><a href="#video-ilopmar" title="Videos">📹</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://xavidop.me/"><img src="https://avatars.githubusercontent.com/u/4416096?v=4?s=100" width="100px;" alt="Xavier Portilla Edo"/><br /><sub><b>Xavier Portilla Edo</b></sub></a><br /><a href="#video-xavidop" title="Videos">📹</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/astrojuanlu"><img src="https://avatars.githubusercontent.com/u/316517?v=4?s=100" width="100px;" alt="Juan Luis Cano Rodríguez"/><br /><sub><b>Juan Luis Cano Rodríguez</b></sub></a><br /><a href="#video-astrojuanlu" title="Videos">📹</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://lucascervera.com"><img src="https://avatars.githubusercontent.com/u/2197153?v=4?s=100" width="100px;" alt="Lucas Cervera"/><br /><sub><b>Lucas Cervera</b></sub></a><br /><a href="#video-lucascervera" title="Videos">📹</a></td>
     </tr>
   </tbody>
 </table>
