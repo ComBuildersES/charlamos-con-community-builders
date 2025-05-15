@@ -52,6 +52,7 @@ Si quieres colaborar por favor leer -> [CONTRIBUTING.md](CONTRIBUTING.md])
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/nadiaujovich/"><img src="https://avatars.githubusercontent.com/u/48018975?v=4?s=100" width="100px;" alt="Nadia Ujovich"/><br /><sub><b>Nadia Ujovich</b></sub></a><br /><a href="#video-nujovich" title="Videos">📹</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://reiaguilera.com"><img src="https://avatars.githubusercontent.com/u/186906?v=4?s=100" width="100px;" alt="Rei Aguilera"/><br /><sub><b>Rei Aguilera</b></sub></a><br /><a href="#video-reiaguilera" title="Videos">📹</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/AbrahamOtero"><img src="https://avatars.githubusercontent.com/u/5107030?v=4?s=100" width="100px;" alt="AbrahamOtero"/><br /><sub><b>AbrahamOtero</b></sub></a><br /><a href="#video-AbrahamOtero" title="Videos">📹</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ilopmar"><img src="https://avatars.githubusercontent.com/u/559192?v=4?s=100" width="100px;" alt="Iván López"/><br /><sub><b>Iván López</b></sub></a><br /><a href="#video-ilopmar" title="Videos">📹</a></td>
     </tr>
   </tbody>
 </table>
