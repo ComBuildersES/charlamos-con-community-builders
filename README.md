@@ -28,9 +28,21 @@ Disponible en:
 
 Calendario de publicaciones: [HTML](https://calendar.google.com/calendar/embed?src=6d4c329fa3e62584964d720479a53708e0e84144eeed1360636e0d2765e9610b%40group.calendar.google.com&ctz=Europe%2FMadrid) | [ICAL/ICS](https://calendar.google.com/calendar/ical/6d4c329fa3e62584964d720479a53708e0e84144eeed1360636e0d2765e9610b%40group.calendar.google.com/public/basic.ics)
 
-# Colaborar
+## Colaborar
 
 Si quieres colaborar por favor leer -> [CONTRIBUTING.md](CONTRIBUTING.md])
 
-Colaboradores:
-* [Raúl Jiménez](https://docs.google.com/presentation/d/1ResYtqrRDQIEJwsloYyW5NH1FRQJIwSqAJeuplY3bno/edit#slide=id.p).
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+Las instrucciones para añadirte o añadir emojis de contribución a tu nombre están [en este *issue*](https://github.com/ComBuildersES/charlamos-con-community-builders/issues/8). 
+
