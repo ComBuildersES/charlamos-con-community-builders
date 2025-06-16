@@ -18,9 +18,10 @@ Para las personas interesadas en entrevistar o compartir su experiencia:
 
 ## Personas que comparten su experiencia
 
-Existen dos opciones de hacerlo:
+Existen tres opciones de hacerlo:
 1. Puedes [crear un issue para grabarla con alguien](https://github.com/ComBuildersES/charlamos-con-community-builders/issues/new?template=quiero-compartir-mi-experiencia.md).
-2. O puedes grabarla tranquilamente y compartir la grabación<sup>1</sup>.
+2. Puedes grabarla tranquilamente y compartir la grabación<sup>1</sup>.
+3. Para quienes no se sientan a gusto con las grabaciones, además de su ficha en [la PPT](https://docs.google.com/presentation/d/1ResYtqrRDQIEJwsloYyW5NH1FRQJIwSqAJeuplY3bno/edit?usp=sharing) (de uso interno), pueden usar el canal #presentaciones de Discord.
 
 > (1) De hacerlo así, puedes subir la grabación directamente a la [carpeta Grabaciones - Charlamos con Community Builders](https://drive.google.com/drive/folders/1LyglzG-wk5FAMJLSBHjqANHXmb4hmF0P).
 
@@ -51,7 +52,9 @@ Aquí puedes ver [el listado actual de tareas](https://github.com/ComBuildersES/
 
 Hasta ahora hemos publicado todo en los canales de Community Builders por facilidad y darle visibilidad a todas las grabaciones, pero se puede plantear el debate para abrir el abanico y que se puedan publicar en otros canales.
 
-Si te animas a ayudar a producir cualquier entrevista, [crea un issue notificarnoslo oficialmente](https://github.com/ComBuildersES/charlamos-con-community-builders/issues/new?template=BLANK_ISSUE). 
+Si te animas a ayudar a:
+- Optimizar los vídeos para YouTube, [crea un issue notificárnoslo oficialmente](https://github.com/ComBuildersES/charlamos-con-community-builders/issues/new?template=optimizar-un-v%C3%ADdeo-de-youtube.md). 
+- Producir cualquier entrevista, [crea un issue notificárnoslo oficialmente](https://github.com/ComBuildersES/charlamos-con-community-builders/issues/new?template=BLANK_ISSUE). 
 
 ## Dudas
 
