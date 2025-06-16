@@ -36,7 +36,7 @@ Si quieres ayudar a grabar una entrevista concreta, puedes [filtrar las grabacio
 
 Para grabar la entrevista puedes usar cualquier herramienta que permita luego descarga la grabación (e.j Zoom, OBS, Teams, Streamyard, etc), y si no tienes ninguna a mano, avísa en el issue y te facilitaremos alguna.
 
-Si te animas a ayudar con cualquier entrevista, [crea un issue notificarnoslo oficialmente](https://github.com/ComBuildersES/charlamos-con-community-builders/issues/new?template=ayudar-a-grabar-las-entrevistas.md) y que nos coordinemos. 
+Si te animas a ayudar con cualquier entrevista, [crea un issue notificarnoslo oficialmente](https://github.com/ComBuildersES/charlamos-con-community-builders/issues/new?template=ayudar-en-la-iniciativa.md) y que nos coordinemos. 
 
 ## Personas que producen las entrevistas
 
@@ -52,9 +52,7 @@ Aquí puedes ver [el listado actual de tareas](https://github.com/ComBuildersES/
 
 Hasta ahora hemos publicado todo en los canales de Community Builders por facilidad y darle visibilidad a todas las grabaciones, pero se puede plantear el debate para abrir el abanico y que se puedan publicar en otros canales.
 
-Si te animas a ayudar a:
-- Optimizar los vídeos para YouTube, [crea un issue notificárnoslo oficialmente](https://github.com/ComBuildersES/charlamos-con-community-builders/issues/new?template=optimizar-un-v%C3%ADdeo-de-youtube.md). 
-- Producir cualquier entrevista, [crea un issue notificárnoslo oficialmente](https://github.com/ComBuildersES/charlamos-con-community-builders/issues/new?template=BLANK_ISSUE). 
+Si te animas a ayudar a optimizar los vídeos para YouTube o producir un podcast, [crea un issue notificárnoslo oficialmente](https://github.com/ComBuildersES/charlamos-con-community-builders/issues/new?template=ayudar-en-la-iniciativa.md). 
 
 ## Dudas
 
