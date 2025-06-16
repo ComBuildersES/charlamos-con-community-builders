@@ -40,7 +40,7 @@ Si te animas a ayudar con cualquier entrevista, [crea un issue notificarnoslo of
 
 ## Personas que producen las entrevistas
 
-Cualquier persona que esté dipuesta a echar un cable con la pu edición de las entrevistas puede hacerlo.
+Cualquier persona que esté dipuesta a echar un cable con la edición de las entrevistas puede hacerlo.
 
 Si quieres ayudar a editar una entrevista concreta, puedes [filtrar las producciones pendientes](https://github.com/ComBuildersES/charlamos-con-community-builders/issues?q=sort%3Aupdated-desc+is%3Aopen+label%3A%22produce+podcast%22) y escribir en el issue directamente.
 
