@@ -2,7 +2,7 @@
 name: Producir un capítulo del podcast
 about: Plantilla con todas las tareas
 title: "[Producir] Conociendo a _______ (S_E_)"
-labels: ''
+labels: produce podcast
 assignees: ''
 
 ---

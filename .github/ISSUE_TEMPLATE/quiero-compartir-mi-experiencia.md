@@ -2,7 +2,7 @@
 name: Quiero compartir mi experiencia
 about: Haremos una llamada
 title: 'Compartir la experiencia de: TU_NOMBRE'
-labels: good first issue, help wanted
+labels: good first issue, help wanted, record interview
 assignees: hhkaos
 
 ---
