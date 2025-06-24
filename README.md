@@ -1,3 +1,5 @@
+[![All Contributors](https://img.shields.io/github/all-contributors/ComBuildersES/charlamos-con-community-builders?color=ee8449&style=flat-square)](#contributors)
+
 # Charlamos con Community Builders
 
 Grabaciones a modo "fireside chat" en las que compartimos la experiencia de las personas que forman parte de la comunidad, y si quieren, las publicamos luego como podcasts
