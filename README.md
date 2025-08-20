@@ -34,6 +34,10 @@ Calendario de publicaciones: [HTML](https://calendar.google.com/calendar/embed?s
 
 Si quieres colaborar por favor leer -> [CONTRIBUTING.md](CONTRIBUTING.md])
 
+Echa un vistazo a algunas de las tareas por las que podrías empezar a ayudar: 
+
+[![GitHub issues by-label](https://img.shields.io/github/issues/ComBuildersES/charlamos-con-community-builders/good%20first%20issue)](https://github.com/ComBuildersES/charlamos-con-community-builders/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
