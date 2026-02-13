@@ -67,6 +67,7 @@ Echa un vistazo a algunas de las tareas por las que podrías empezar a ayudar:
       <td align="center" valign="top" width="14.28%"><a href="https://www.draxus.org/"><img src="https://avatars.githubusercontent.com/u/2436?v=4?s=100" width="100px;" alt="Manuel Martín"/><br /><sub><b>Manuel Martín</b></sub></a><br /><a href="#video-DraXus" title="Videos">📹</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/cldelgadop"><img src="https://avatars.githubusercontent.com/u/62181574?v=4?s=100" width="100px;" alt="Carmen Delgado"/><br /><sub><b>Carmen Delgado</b></sub></a><br /><a href="#video-cldelgadop" title="Videos">📹</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/MrAceitun0"><img src="https://avatars.githubusercontent.com/u/38362404?v=4?s=100" width="100px;" alt="MrAceitun0"/><br /><sub><b>MrAceitun0</b></sub></a><br /><a href="#video-MrAceitun0" title="Videos">📹</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://mipigu.com"><img src="https://avatars.githubusercontent.com/u/21361339?v=4?s=100" width="100px;" alt="Sergio Márquez"/><br /><sub><b>Sergio Márquez</b></sub></a><br /><a href="#video-eypigu" title="Videos">📹</a></td>
     </tr>
   </tbody>
 </table>
