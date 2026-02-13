@@ -6,7 +6,7 @@ Grabaciones a modo "fireside chat" en las que compartimos la experiencia de las 
 
 ## Grabaciones (a modo interno)
 
-Con los objetivo de agilizar una primera toma de contacto, hacemos grabaciones a modo “[fireside chat](https://docs.google.com/presentation/d/1PD9rEqv1Gtyjc8BLMEJj8-9GYkPUAq_FAxoEnK5BJjM/edit#slide=id.g2f13e987946_0_1091)” en las [hacemos unas preguntas](https://docs.google.com/document/d/1Owqsk_bkLD_sKQftIt5UnfdrdMIxX470zyS24wD3m1c/edit) a [las personas que se unen a](https://docs.google.com/presentation/d/1ResYtqrRDQIEJwsloYyW5NH1FRQJIwSqAJeuplY3bno/edit#slide=id.g2e29525fa3a_0_136) la comunidad (**y quieran**), en las que explicamos al resto de personas de la comunidad un poco su experiencia con comunidades y expectativas en relación a Community Builders.
+Con los objetivo de agilizar una primera toma de contacto, hacemos grabaciones a modo “[fireside chat](https://docs.google.com/presentation/d/1PD9rEqv1Gtyjc8BLMEJj8-9GYkPUAq_FAxoEnK5BJjM/edit#slide=id.g2f13e987946_0_1091)” en las [hacemos unas preguntas](https://github.com/ComBuildersES/charlamos-con-community-builders/blob/main/preguntas-genericas.md) a [las personas que se unen a](https://docs.google.com/presentation/d/1ResYtqrRDQIEJwsloYyW5NH1FRQJIwSqAJeuplY3bno/edit#slide=id.g2e29525fa3a_0_136) la comunidad (**y quieran**), en las que explicamos al resto de personas de la comunidad un poco su experiencia con comunidades y expectativas en relación a Community Builders.
 
 Cuando hay una nueva grabación [se notifican en este hilo de correos](https://groups.google.com/g/community-builders-es/c/2AC8dMKNF00/m/oS9v5TfCAAAJ)
 
